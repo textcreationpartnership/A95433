@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two letters containing all the proceedings betwixt the Prince, and the E. of Warwick: a fight at sea, and a fleet upon the Downes. The submitting of seven ships, and above 100. peece of ordance taken: with a declaration of the revolted ships concerning Prince Rupert, who was made Admirall thereof. Also the heads of the large declaration, and demands of the army, to be debated in Parliament; the King taken into custody; with a letter from the Estates of Scotland, and the last newes of the King and treaty in the Isle of Wight.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95433</idno>
+            <idno type="STC">Wing T3457</idno>
+            <idno type="STC">Thomason E472_22</idno>
+            <idno type="STC">ESTC R205808</idno>
+            <idno type="EEBO-CITATION">99865070</idno>
+            <idno type="PROQUEST">99865070</idno>
+            <idno type="VID">117305</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95433)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117305)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E472[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two letters containing all the proceedings betwixt the Prince, and the E. of Warwick: a fight at sea, and a fleet upon the Downes. The submitting of seven ships, and above 100. peece of ordance taken: with a declaration of the revolted ships concerning Prince Rupert, who was made Admirall thereof. Also the heads of the large declaration, and demands of the army, to be debated in Parliament; the King taken into custody; with a letter from the Estates of Scotland, and the last newes of the King and treaty in the Isle of Wight.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.P.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Warwick, Robert Rich, --  Earl of, 1587-1658.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117305:1" rendition="simple:additions"/>
+            <p>TWO LETTERS CONTAINING All the Proceedings betwixt the PRINCE, and the <hi>E. of Warwick:</hi> a fight at Sea, and a Fleet upon the Downes.</p>
+            <p>The ſubmitting of ſeven ſhips, and above 100. peece of Ordnance taken: With a Declaration of the re<g ref="char:EOLhyphen"/>volted Ships concerning Prince <hi>Rupert,</hi> who was made Admirall thereof.</p>
+            <p>Alſo the Heads of the large Declaration, and Demands of of the Army, to be debated in Parliament; the King taken into Cuſtody; with a Letter from the Eſtates of <hi>Scotland,</hi> and the laſt Newes of the King and Treaty in the <hi>Iſle of Wight.</hi>
+            </p>
+            <figure>
+               <figDesc>woodcut illustration of flags flying above ships</figDesc>
+               <p>C P</p>
+               <p>ICH DIEN</p>
+            </figure>
+            <p>
+               <hi>London:</hi> Printed for <hi>T. P.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:117305:2"/>
+            <head>Two Letters of the whole proceed<g ref="char:EOLhyphen"/>ings betwixt the <hi>Prince,</hi> and the <hi>Earl of Warwick.</hi>
+            </head>
+            <div type="letter">
+               <opener>
+                  <salute>Right honourable,</salute>
+               </opener>
+               <p>ACcording to the laſt Orders of the States of Holland, Vantrump put forth to Sea (with the Fleet which before he lay with all between the Earle of WAR<g ref="char:EOLhyphen"/>VVICK, and the revolted Ships) the 9. of this inſtant November, this gave us ſome far<g ref="char:EOLhyphen"/>ther aſſurance, beſides the promiſes they for<g ref="char:EOLhyphen"/>merly made to us, that no interruption would be given us, but that we might with<g ref="char:EOLhyphen"/>out diſturbance uſe our utmoſt endeavours in accompliſhing the Parliaments and Kingdomes ſervice, which we are about, and for effecting thereof, no ſooner was Vantrump put out to Sea, but the Lord Ad<g ref="char:EOLhyphen"/>mirall waighed Anchor, and ſailed quite up into the Creeke almoſt as high as Delfe
+<pb n="2" facs="tcp:117305:3"/>Sluce, which is neere unto Gorey, and moſt of the revolted Ships were within view neer to the other ſhoare, ſome great Guns were diſcharged on both ſides, but little ex<g ref="char:EOLhyphen"/>ecution done, then the Lord Admirall per<g ref="char:EOLhyphen"/>ceiving that night began to approach, and like to be miſty and dark, he gave Order to each Squadron to look diligently to their Guard, and the next morning, the CON<g ref="char:EOLhyphen"/>STANT WAR VVICK deſired a Parlee, which being granted, the Officers and thoſe Sailors which were left in her, ſubmitted and came in, deſired to be indempnified for what was paſt; after her ſubmitted the Hind, the Love, and the Satisfaction, the reſt of thoſe Ships ſought ſanctuary in the Harbour of Helver Sluce, and Prince Rupert uſeth his beſt skill to ſatisfie thoſe that re<g ref="char:EOLhyphen"/>main with him, and cauſed ſeverall peeces of Ordinance to be drawne forth and plan<g ref="char:EOLhyphen"/>ted on the ſhore: but whether that will be allowed on by the Dutch, we cannot yet know of any certainty; but ſome of them aſ<g ref="char:EOLhyphen"/>ſure us the contrary: it is rumoured, that the Prince is daily expected with them, yet, they
+<pb n="3" facs="tcp:117305:3"/>ſay, he is not ſo well recovered, as to come from the Hague, his Highneſſe (we hear) is with the Lord Admirall, and thereby ſeek to make an agreement with the Parlia<g ref="char:EOLhyphen"/>ment, and return again into England: but if any ſuch thing be moved, let all men be aſſured that nothing will be acted that way, but what ſhall be with advice and approba<g ref="char:EOLhyphen"/>tion of Parliament. The Duke of York is with Prince Rupert; if the Treaty doth not take effect, ſo as a peace be contented for all parties, it is thought the Prince will back a<g ref="char:EOLhyphen"/>gaine into France.</p>
+               <closer>
+                  <dateline>Delph, <date>12. Novemb. 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter from a well-wiſher to the King and Prince.</head>
+               <opener>
+                  <salute>Honoured Sir,</salute>
+               </opener>
+               <p>I Believe you have heard, (before this kiſſes your hands) that ſome of thoſe ſhips which did adhere to the Prince, and deſerted the Parliament, are gone in to the Earl of <hi>Warwick;</hi> but ſince thoſe four which firſt ſubmitted to him went away, two or three more have followed; amongſt which is the <hi>Conſtantine,</hi> which bare the Prince his Colours, and the reſt are blocked up in Helver-Sluce, ſo that it is believed that not one of them can eſcape, if they ſhould doe their uttermoſt to obtaine it; but
+<pb n="4" facs="tcp:117305:4"/>to tell you the truth, of what we thinke, it is rather conceived, that they will follow the example of thoſe which are already gone to the Earl of <hi>Warwick,</hi> then diſpute the buſineſſe any further; for the making Prince <hi>Rupert</hi> Commander in chief of the Prince his Fleet in his abſence, bred ſuch a rankor in the hearts both of Seamen and others, that when he came and read his Commiſſion to them, they ſtucke not to tell him, that they had rather ſheath their ſwords in his bowels then be commanded by him, &amp; indeed when <hi>Batten</hi> &amp; <hi>Jorden</hi> (by reaſon of diſcontent) left his High<g ref="char:EOLhyphen"/>neſs, the greateſt part of the Navy, there went off with them, or ſtaggred in their affections, ſo that in all pro<g ref="char:EOLhyphen"/>bability the Prince had not ſooner gained this Fleet, and ſet up his Standard then it will be loſt: For the Earle of <hi>Warwick</hi> doth not only keep in the remain<g ref="char:EOLhyphen"/>ing part, ſo that they muſt in all likelyhood within a ſhort time ſubmit, but with the manning of thoſe which are already come into him (whereof ſome car<g ref="char:EOLhyphen"/>ry 40. peeces of Ordinance a peece) hath ſent a gal<g ref="char:EOLhyphen"/>lant Squadron of Ships to the Downes, to be a guard to Marchants and other Ships paſſing upon the nar<g ref="char:EOLhyphen"/>row Seas.</p>
+               <p>The Prince is not ſo well recovered as to come from the Hague, and the Earle of <hi>Warwick</hi> hath ſent another ſummons to the Ships which ſhelter them<g ref="char:EOLhyphen"/>ſelves in Helver-Sluce, ſo that it is believed the hopes which ſome did entertain that there would by way of Treaty be an agreement between his Highneſſe and the Earle of <hi>Warwick,</hi> wil. come to nothing</p>
+               <closer>
+                  <dateline>From the Navy <date>Novem. 14. 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="5" facs="tcp:117305:4"/>
+               <opener>
+                  <dateline>
+                     <hi>Weſtminſter</hi> 
+                     <date>die Sabbati 18. <hi>Novemb.</hi> 1648.</date>
+                  </dateline>
+               </opener>
+               <argument>
+                  <p>A Letter was read in the Houſe from the Committee of Eſtates in Scotland, which followes <hi>verbatim.</hi>
+                  </p>
+               </argument>
+               <head>For the Kight Honourable, the <hi>Lords and Commons</hi> aſſembled in the Parliament of England.</head>
+               <p>RIght honourable, as we are very ſenſible of the benefit and advantage afforded to this Kingdom, againſt the enemies to the peace &amp; hap<g ref="char:EOLhyphen"/>pineſſe of both Nations, by the coming hither of your Forces under the command of Lievtenant Generall Crumwell, and Major Generall Lam<g ref="char:EOLhyphen"/>bert; ſo we hold it fitting when the condition of our affaires and poſture of our Forces have now permitted their return, to render them this deſer<g ref="char:EOLhyphen"/>ved teſtimony, and to acknowledge that the de<g ref="char:EOLhyphen"/>portment of the Generall Officers, Under-officers and ſoldiers in their coming into this Kingdom, during their abode amongſt us, and in their re<g ref="char:EOLhyphen"/>turn to England, hath been ſo fair and civill, and with ſo much tenderneſſe to avoid all cauſes of offence, and to preſerve a right underſtanding betwixt the Kingdoms, that we truſt by their car<g ref="char:EOLhyphen"/>riage the Malignant and diſaffected ſhall be much
+<pb n="6" facs="tcp:117305:5"/>convinced and diſappointed, and the amity of both Kingdomes ſtrengthned and confirmed, which we ſhall likewiſe on our part inviolably ſtudy to preſerve, and to witneſſe that we are</p>
+               <closer>
+                  <signed>
+                     <hi>Your very affectionate friends and humble ſervants,</hi> Loudoun Canc.</signed>
+                  <dateline>Edenburgh, <date>7. Novem. 1648.</date>
+                  </dateline>
+                  <signed>Signed in the name, and by com<g ref="char:EOLhyphen"/>mand of the Committee of Eſtates.</signed>
+               </closer>
+            </div>
+            <div type="commentary_on_letters">
+               <p>From the Head-quarters at S. Albans came Letters ſignifying, that there is a large Remonſtrance or De<g ref="char:EOLhyphen"/>claration drawing up, with the advice of the Generall Councell of the Army. If it come time enough it will be debated in the Houſe on Munday next, It will contain ma<g ref="char:EOLhyphen"/>ny particulars, but the chiefe heads are theſe.</p>
+               <p>That Juſtice be dxecuted on all grand Delinquents, and offences on what party ſoever brought to tryall; a time li<g ref="char:EOLhyphen"/>mited for the ſitting of this preſent Parliament, and ano<g ref="char:EOLhyphen"/>ther to be called, the Arrears of all that have faithfully ſerved the Parliament paid, &amp;c. From the Iſle of Wight is expected his Majeſties farther Conceſſions to the Parli<g ref="char:EOLhyphen"/>aments laſt deſires, and then it may be ſome few daies may be added to the Treaty, and if otherwiſe it ends on Tueſ<g ref="char:EOLhyphen"/>day next, and his Majeſty is againe in cuſtody of the Ar<g ref="char:EOLhyphen"/>my.</p>
+               <p>The Letter from Scotland herein Printed was read in both Houſes, and it is Ordered by the Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament that it ſhould be Printed &amp; Publiſhed.</p>
+               <closer>
+                  <signed>Joh. Brown Cler. Parl. H. Elſinge Cler. Parl. D. Com.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
